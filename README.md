@@ -142,7 +142,7 @@ Cross-platform mobile app for students to organize, track & manage daily academi
 
 | 📧 Email | 📱 Mobile | 🔗 GitHub |
 |:---|:---|:---|
-| YOUR_EMAIL@gmail.com | +92 345 2076651 | [Faisaliqbal216](https://github.com/Faisaliqbal216) |
+| faisaliqbal2160@gmail.com | +92 345 3076651 | [Faisaliqbal216](https://github.com/Faisaliqbal216) |
 
 </div>
 
